@@ -1,5 +1,7 @@
 ﻿Tool for running executables without extensions on Windows.
 
+[![Build status](https://ci.appveyor.com/api/projects/status/wox4u451bcb9ws6a?svg=true)](https://ci.appveyor.com/project/excitoon/noextrun)
+
 ### Dependencies
 
 ```
